@@ -26,10 +26,10 @@
 ### 📊 Dashboards e Gráficos
 
 <p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/dashboard.png" width="40"/>
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Analytics-graphs-and-diagrams-flat-icons-inmotus-design.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/guimatrone0/assets/main/icons/dashboard-icon.png" width="50" alt="Dashboard"/>
+  <img src="https://raw.githubusercontent.com/guimatrone0/assets/main/icons/chart-icon.png" width="50" alt="Gráfico"/>
   <br>
-  <em>Soluções com gráficos estatísticos, dashboards de feedback e visualizações personalizadas</em>
+  <em>Desenvolvimento de dashboards, gráficos de desempenho e coleta inteligente de feedbacks</em>
 </p>
 
 ---
