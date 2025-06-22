@@ -45,7 +45,7 @@
 ### 📊 GitHub Stats
 ![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=guimatrone0&show_icons=true&theme=dracula&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimatrone0&layout=compact&theme=dracula&hide_border=true)](https://github.com/SEU_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimatrone0&layout=compact&theme=dracula&hide_border=true)](https://github.com/guimatrone0)
 
 ### 📌 Projetos Destacados
 - 🎯 [**Portfólio Pessoal**](https://github.com/guimatrone0/guimatrone0.github.io)
